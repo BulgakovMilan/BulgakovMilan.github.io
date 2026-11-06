@@ -1,0 +1,121 @@
+{
+  "source": "BodyParts3D / Anatomography",
+  "author": "Database Center for Life Science (DBCLS)",
+  "sourceVersion": "4.3",
+  "repository": "https://github.com/olivercase/body_parts_3d_api",
+  "revision": "fd527e6f4daf732fd814314d9257df5877b844bc",
+  "license": "CC BY-SA 2.1 Japan",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.1/jp/",
+  "licenseEvidence": "https://lifesciencedb.jp/bp3d/info_en/license/index.html",
+  "changes": "All original vertices and triangles retained. Common shoulder transform [x/1000,z/1000+0.0781112,y/1000-0.00222675]; winding reversed; unit normals quantized to int16. No per-object offsets, mirroring, smoothing, decimation or segmentation.",
+  "sourceLock": "/models/forearm-hi-source-lock.json",
+  "url": "/models/forearm-hi.bin",
+  "sha256": "97faca5ee60e6dd826636b4f92ad0e0648268ca7f36e184fa25517aa4ed5ee26",
+  "bytes": 67080,
+  "parts": [
+    {
+      "id": "FJ3349",
+      "name": "Right radius",
+      "conceptId": "FMA23464",
+      "system": "skeletal",
+      "chunk": 0,
+      "vertexCount": 388,
+      "indexCount": 2016,
+      "bounds": [
+        [
+          -0.27953500000000003,
+          0.8839462000000001,
+          -0.12913475
+        ],
+        [
+          -0.219833,
+          1.1131612,
+          -0.06332935
+        ]
+      ],
+      "positions": 0,
+      "normals": 4656,
+      "indices": 6984
+    },
+    {
+      "id": "FJ3277",
+      "name": "Left radius",
+      "conceptId": "FMA23465",
+      "system": "skeletal",
+      "chunk": 0,
+      "vertexCount": 368,
+      "indexCount": 1896,
+      "bounds": [
+        [
+          0.219836,
+          0.8842742,
+          -0.12947875
+        ],
+        [
+          0.279143,
+          1.1131212,
+          -0.06369605
+        ]
+      ],
+      "positions": 15048,
+      "normals": 19464,
+      "indices": 21672
+    },
+    {
+      "id": "FJ3391",
+      "name": "Right ulna",
+      "conceptId": "FMA23467",
+      "system": "skeletal",
+      "chunk": 0,
+      "vertexCount": 500,
+      "indexCount": 2502,
+      "bounds": [
+        [
+          -0.247179,
+          0.8832842000000001,
+          -0.12572075000000002
+        ],
+        [
+          -0.196881,
+          1.1305612,
+          -0.04702595
+        ]
+      ],
+      "positions": 29256,
+      "normals": 35256,
+      "indices": 38256
+    },
+    {
+      "id": "FJ3286",
+      "name": "Left ulna",
+      "conceptId": "FMA23468",
+      "system": "skeletal",
+      "chunk": 0,
+      "vertexCount": 496,
+      "indexCount": 2472,
+      "bounds": [
+        [
+          0.19689199999999998,
+          0.8831272,
+          -0.12550575
+        ],
+        [
+          0.24712,
+          1.1305812,
+          -0.04677905
+        ]
+      ],
+      "positions": 48264,
+      "normals": 54216,
+      "indices": 57192
+    }
+  ],
+  "sharedHumeri": {
+    "url": "/models/shoulder-hi.bin",
+    "sha256": "46341e10f4f4ad723c94f718102dd5d0e056436efe2520ea325e3de2d0f39ea2",
+    "ids": [
+      "FJ3368",
+      "FJ3262"
+    ]
+  }
+}

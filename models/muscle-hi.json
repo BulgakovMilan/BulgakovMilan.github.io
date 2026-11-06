@@ -1,0 +1,1159 @@
+{
+  "source": "BodyParts3D / Anatomography",
+  "author": "Database Center for Life Science (DBCLS)",
+  "sourceVersion": "4.3",
+  "repository": "https://github.com/olivercase/body_parts_3d_api",
+  "revision": "fd527e6f4daf732fd814314d9257df5877b844bc",
+  "license": "CC BY-SA 2.1 Japan",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.1/jp/",
+  "licenseEvidence": "https://lifesciencedb.jp/bp3d/info_en/license/index.html",
+  "changes": "All original OBJ vertices and triangles retained. Common transform [x/1000,z/1000+0.0781112,y/1000-0.00222675]; winding reversed; unit normals quantized to int16. No per-object offsets, decimation, smoothing or invented segmentation.",
+  "compatibility": "All six bone position buffers exactly equal the shipped shoulder 4.3 buffers. Muscle headers and manifest membership verified; bilateral source IDs retained. This verifies data transport, not anatomy or attachment sites. No 4.0 bone context mixed in.",
+  "sourceLock": "/models/muscle-hi-source-lock.json",
+  "models": {
+    "muscle-deltoid": {
+      "url": "/models/muscle-deltoid-hi.bin",
+      "sha256": "ce7594678c3ee1143444eee485d8c0d88f8ccdc748c9982c1bdd569c0d699261",
+      "bytes": 1675388,
+      "parts": [
+        {
+          "id": "FJ1467",
+          "name": "Acromial part of right deltoid",
+          "conceptId": "FMA34682",
+          "system": "muscular",
+          "chunk": 0,
+          "vertexCount": 916,
+          "indexCount": 3900,
+          "bounds": [
+            [
+              -0.227228,
+              1.2832012,
+              -0.10556475
+            ],
+            [
+              -0.14658600000000002,
+              1.4273312,
+              -0.04306385
+            ]
+          ],
+          "positions": 0,
+          "normals": 10992,
+          "indices": 16488
+        },
+        {
+          "id": "FJ1467M",
+          "name": "Acromial part of left deltoid",
+          "conceptId": "FMA34683",
+          "system": "muscular",
+          "chunk": 0,
+          "vertexCount": 918,
+          "indexCount": 3900,
+          "bounds": [
+            [
+              0.14658600000000002,
+              1.2832012,
+              -0.10556375
+            ],
+            [
+              0.227228,
+              1.4273312,
+              -0.04306385
+            ]
+          ],
+          "positions": 32088,
+          "normals": 43104,
+          "indices": 48612
+        },
+        {
+          "id": "FJ1468",
+          "name": "Clavicular part of right deltoid",
+          "conceptId": "FMA34680",
+          "system": "muscular",
+          "chunk": 0,
+          "vertexCount": 2592,
+          "indexCount": 6618,
+          "bounds": [
+            [
+              -0.203619,
+              1.2819611999999998,
+              -0.12355775000000001
+            ],
+            [
+              -0.08855500000000001,
+              1.4335012,
+              -0.07735195
+            ]
+          ],
+          "positions": 64212,
+          "normals": 95316,
+          "indices": 110868
+        },
+        {
+          "id": "FJ1468M",
+          "name": "Clavicular part of left deltoid",
+          "conceptId": "FMA34681",
+          "system": "muscular",
+          "chunk": 0,
+          "vertexCount": 2604,
+          "indexCount": 6618,
+          "bounds": [
+            [
+              0.08855500000000001,
+              1.2819611999999998,
+              -0.12355775000000001
+            ],
+            [
+              0.203619,
+              1.4335012,
+              -0.07735195
+            ]
+          ],
+          "positions": 137340,
+          "normals": 168588,
+          "indices": 184212
+        },
+        {
+          "id": "FJ1513",
+          "name": "Spinal part of right deltoid",
+          "conceptId": "FMA34684",
+          "system": "muscular",
+          "chunk": 0,
+          "vertexCount": 1665,
+          "indexCount": 5700,
+          "bounds": [
+            [
+              -0.219171,
+              1.2658612,
+              -0.08147975
+            ],
+            [
+              -0.08283410000000001,
+              1.4179511999999999,
+              -0.004951870000000001
+            ]
+          ],
+          "positions": 210684,
+          "normals": 230664,
+          "indices": 240656
+        },
+        {
+          "id": "FJ1513M",
+          "name": "Spinal part of left deltoid",
+          "conceptId": "FMA34685",
+          "system": "muscular",
+          "chunk": 0,
+          "vertexCount": 1678,
+          "indexCount": 5700,
+          "bounds": [
+            [
+              0.08283410000000001,
+              1.2658612,
+              -0.08147975
+            ],
+            [
+              0.219171,
+              1.4179511999999999,
+              -0.004951870000000001
+            ]
+          ],
+          "positions": 263456,
+          "normals": 283592,
+          "indices": 293660
+        },
+        {
+          "id": "FJ3279",
+          "name": "Left scapula",
+          "conceptId": "FMA13396",
+          "system": "skeletal",
+          "chunk": 0,
+          "vertexCount": 14068,
+          "indexCount": 84318,
+          "bounds": [
+            [
+              0.0570614,
+              1.2620612,
+              -0.10507174999999999
+            ],
+            [
+              0.166464,
+              1.4279711999999998,
+              0.00284965
+            ]
+          ],
+          "positions": 316460,
+          "normals": 485276,
+          "indices": 569684
+        },
+        {
+          "id": "FJ3384",
+          "name": "Right scapula",
+          "conceptId": "FMA13395",
+          "system": "skeletal",
+          "chunk": 0,
+          "vertexCount": 13118,
+          "indexCount": 78516,
+          "bounds": [
+            [
+              -0.166464,
+              1.2620712,
+              -0.10508274999999999
+            ],
+            [
+              -0.0570538,
+              1.4279711999999998,
+              0.0028559999999999996
+            ]
+          ],
+          "positions": 906956,
+          "normals": 1064372,
+          "indices": 1143080
+        },
+        {
+          "id": "FJ3237",
+          "name": "Left clavicle",
+          "conceptId": "FMA13323",
+          "system": "skeletal",
+          "chunk": 0,
+          "vertexCount": 602,
+          "indexCount": 3528,
+          "bounds": [
+            [
+              0.00837873,
+              1.3866412,
+              -0.14930475
+            ],
+            [
+              0.14394200000000001,
+              1.4332912,
+              -0.056614250000000005
+            ]
+          ],
+          "positions": 1457144,
+          "normals": 1464368,
+          "indices": 1467980
+        },
+        {
+          "id": "FJ3362",
+          "name": "Right clavicle",
+          "conceptId": "FMA13322",
+          "system": "skeletal",
+          "chunk": 0,
+          "vertexCount": 583,
+          "indexCount": 3438,
+          "bounds": [
+            [
+              -0.145277,
+              1.3867311999999998,
+              -0.14917475
+            ],
+            [
+              -0.009661649999999999,
+              1.4335512,
+              -0.05663925
+            ]
+          ],
+          "positions": 1482092,
+          "normals": 1489088,
+          "indices": 1492588
+        },
+        {
+          "id": "FJ3262",
+          "name": "Left humerus",
+          "conceptId": "FMA23131",
+          "system": "skeletal",
+          "chunk": 0,
+          "vertexCount": 2073,
+          "indexCount": 11532,
+          "bounds": [
+            [
+              0.140073,
+              1.1073212,
+              -0.10245575
+            ],
+            [
+              0.24076,
+              1.4146311999999999,
+              -0.05328265
+            ]
+          ],
+          "positions": 1506340,
+          "normals": 1531216,
+          "indices": 1543656
+        },
+        {
+          "id": "FJ3368",
+          "name": "Right humerus",
+          "conceptId": "FMA23130",
+          "system": "skeletal",
+          "chunk": 0,
+          "vertexCount": 2233,
+          "indexCount": 11352,
+          "bounds": [
+            [
+              -0.240841,
+              1.1073112,
+              -0.10244574999999999
+            ],
+            [
+              -0.14009,
+              1.4146512,
+              -0.05326585
+            ]
+          ],
+          "positions": 1589784,
+          "normals": 1616580,
+          "indices": 1629980
+        }
+      ],
+      "contextIds": [
+        "FJ3279",
+        "FJ3384",
+        "FJ3237",
+        "FJ3362",
+        "FJ3262",
+        "FJ3368"
+      ],
+      "muscleIds": [
+        "FJ1467",
+        "FJ1467M",
+        "FJ1468",
+        "FJ1468M",
+        "FJ1513",
+        "FJ1513M"
+      ]
+    },
+    "muscle-rotator-cuff": {
+      "url": "/models/muscle-rotator-cuff-hi.bin",
+      "sha256": "22f1db0bef90078d18e5efa5b39d13a96f4c0d8ffc78e4d7c576e4027941c67f",
+      "bytes": 1633840,
+      "parts": [
+        {
+          "id": "FJ1500",
+          "name": "Right infraspinatus",
+          "conceptId": "FMA32547",
+          "system": "muscular",
+          "chunk": 0,
+          "vertexCount": 743,
+          "indexCount": 2598,
+          "bounds": [
+            [
+              -0.18905000000000002,
+              1.2846411999999998,
+              -0.07931375
+            ],
+            [
+              -0.060258400000000004,
+              1.4090812,
+              0.00143938
+            ]
+          ],
+          "positions": 0,
+          "normals": 8916,
+          "indices": 13376
+        },
+        {
+          "id": "FJ1500M",
+          "name": "Left infraspinatus",
+          "conceptId": "FMA32548",
+          "system": "muscular",
+          "chunk": 0,
+          "vertexCount": 738,
+          "indexCount": 2598,
+          "bounds": [
+            [
+              0.060258400000000004,
+              1.2846411999999998,
+              -0.07931375
+            ],
+            [
+              0.18905000000000002,
+              1.4090912,
+              0.00143938
+            ]
+          ],
+          "positions": 23768,
+          "normals": 32624,
+          "indices": 37052
+        },
+        {
+          "id": "FJ1504",
+          "name": "Right subscapularis",
+          "conceptId": "FMA13414",
+          "system": "muscular",
+          "chunk": 0,
+          "vertexCount": 2775,
+          "indexCount": 6276,
+          "bounds": [
+            [
+              -0.166117,
+              1.2732712,
+              -0.10218145000000001
+            ],
+            [
+              -0.06318220000000001,
+              1.4029112,
+              -0.00498458
+            ]
+          ],
+          "positions": 47444,
+          "normals": 80744,
+          "indices": 97396
+        },
+        {
+          "id": "FJ1504M",
+          "name": "Left subscapularis",
+          "conceptId": "FMA13415",
+          "system": "muscular",
+          "chunk": 0,
+          "vertexCount": 2759,
+          "indexCount": 6276,
+          "bounds": [
+            [
+              0.06318220000000001,
+              1.2732712,
+              -0.10218175
+            ],
+            [
+              0.166117,
+              1.4029112,
+              -0.00498458
+            ]
+          ],
+          "positions": 122500,
+          "normals": 155608,
+          "indices": 172164
+        },
+        {
+          "id": "FJ1506",
+          "name": "Right supraspinatus",
+          "conceptId": "FMA32544",
+          "system": "muscular",
+          "chunk": 0,
+          "vertexCount": 843,
+          "indexCount": 2634,
+          "bounds": [
+            [
+              -0.188443,
+              1.3854511999999999,
+              -0.09412805
+            ],
+            [
+              -0.063876,
+              1.4204712,
+              -0.01518805
+            ]
+          ],
+          "positions": 197268,
+          "normals": 207384,
+          "indices": 212444
+        },
+        {
+          "id": "FJ1506M",
+          "name": "Left supraspinatus",
+          "conceptId": "FMA32545",
+          "system": "muscular",
+          "chunk": 0,
+          "vertexCount": 842,
+          "indexCount": 2634,
+          "bounds": [
+            [
+              0.063876,
+              1.3854511999999999,
+              -0.09412805
+            ],
+            [
+              0.188443,
+              1.4204811999999998,
+              -0.01518805
+            ]
+          ],
+          "positions": 222980,
+          "normals": 233084,
+          "indices": 238136
+        },
+        {
+          "id": "FJ1508",
+          "name": "Right teres minor",
+          "conceptId": "FMA32553",
+          "system": "muscular",
+          "chunk": 0,
+          "vertexCount": 392,
+          "indexCount": 1518,
+          "bounds": [
+            [
+              -0.190554,
+              1.2986711999999998,
+              -0.08253735
+            ],
+            [
+              -0.105409,
+              1.3950312,
+              -0.01463295
+            ]
+          ],
+          "positions": 248672,
+          "normals": 253376,
+          "indices": 255728
+        },
+        {
+          "id": "FJ1508M",
+          "name": "Left teres minor",
+          "conceptId": "FMA32554",
+          "system": "muscular",
+          "chunk": 0,
+          "vertexCount": 391,
+          "indexCount": 1518,
+          "bounds": [
+            [
+              0.105409,
+              1.2986711999999998,
+              -0.08253735
+            ],
+            [
+              0.190555,
+              1.3950312,
+              -0.01463295
+            ]
+          ],
+          "positions": 261800,
+          "normals": 266492,
+          "indices": 268840
+        },
+        {
+          "id": "FJ3279",
+          "name": "Left scapula",
+          "conceptId": "FMA13396",
+          "system": "skeletal",
+          "chunk": 0,
+          "vertexCount": 14068,
+          "indexCount": 84318,
+          "bounds": [
+            [
+              0.0570614,
+              1.2620612,
+              -0.10507174999999999
+            ],
+            [
+              0.166464,
+              1.4279711999999998,
+              0.00284965
+            ]
+          ],
+          "positions": 274912,
+          "normals": 443728,
+          "indices": 528136
+        },
+        {
+          "id": "FJ3384",
+          "name": "Right scapula",
+          "conceptId": "FMA13395",
+          "system": "skeletal",
+          "chunk": 0,
+          "vertexCount": 13118,
+          "indexCount": 78516,
+          "bounds": [
+            [
+              -0.166464,
+              1.2620712,
+              -0.10508274999999999
+            ],
+            [
+              -0.0570538,
+              1.4279711999999998,
+              0.0028559999999999996
+            ]
+          ],
+          "positions": 865408,
+          "normals": 1022824,
+          "indices": 1101532
+        },
+        {
+          "id": "FJ3262",
+          "name": "Left humerus",
+          "conceptId": "FMA23131",
+          "system": "skeletal",
+          "chunk": 0,
+          "vertexCount": 2073,
+          "indexCount": 11532,
+          "bounds": [
+            [
+              0.140073,
+              1.1073212,
+              -0.10245575
+            ],
+            [
+              0.24076,
+              1.4146311999999999,
+              -0.05328265
+            ]
+          ],
+          "positions": 1415596,
+          "normals": 1440472,
+          "indices": 1452912
+        },
+        {
+          "id": "FJ3368",
+          "name": "Right humerus",
+          "conceptId": "FMA23130",
+          "system": "skeletal",
+          "chunk": 0,
+          "vertexCount": 2233,
+          "indexCount": 11352,
+          "bounds": [
+            [
+              -0.240841,
+              1.1073112,
+              -0.10244574999999999
+            ],
+            [
+              -0.14009,
+              1.4146512,
+              -0.05326585
+            ]
+          ],
+          "positions": 1499040,
+          "normals": 1525836,
+          "indices": 1539236
+        },
+        {
+          "id": "FJ3237",
+          "name": "Left clavicle",
+          "conceptId": "FMA13323",
+          "system": "skeletal",
+          "chunk": 0,
+          "vertexCount": 602,
+          "indexCount": 3528,
+          "bounds": [
+            [
+              0.00837873,
+              1.3866412,
+              -0.14930475
+            ],
+            [
+              0.14394200000000001,
+              1.4332912,
+              -0.056614250000000005
+            ]
+          ],
+          "positions": 1584644,
+          "normals": 1591868,
+          "indices": 1595480
+        },
+        {
+          "id": "FJ3362",
+          "name": "Right clavicle",
+          "conceptId": "FMA13322",
+          "system": "skeletal",
+          "chunk": 0,
+          "vertexCount": 583,
+          "indexCount": 3438,
+          "bounds": [
+            [
+              -0.145277,
+              1.3867311999999998,
+              -0.14917475
+            ],
+            [
+              -0.009661649999999999,
+              1.4335512,
+              -0.05663925
+            ]
+          ],
+          "positions": 1609592,
+          "normals": 1616588,
+          "indices": 1620088
+        }
+      ],
+      "contextIds": [
+        "FJ3279",
+        "FJ3384",
+        "FJ3262",
+        "FJ3368",
+        "FJ3237",
+        "FJ3362"
+      ],
+      "muscleIds": [
+        "FJ1500",
+        "FJ1500M",
+        "FJ1504",
+        "FJ1504M",
+        "FJ1506",
+        "FJ1506M",
+        "FJ1508",
+        "FJ1508M"
+      ]
+    },
+    "muscle-biceps-brachii": {
+      "url": "/models/muscle-biceps-brachii-hi.bin",
+      "sha256": "37ee88842fb1e1e844d333f7c52fc8af24aa0cdd8284f4ae40ce6cbc0ddd708e",
+      "bytes": 1488840,
+      "parts": [
+        {
+          "id": "FJ1478",
+          "name": "Long head of right biceps brachii",
+          "conceptId": "FMA37686",
+          "system": "muscular",
+          "chunk": 0,
+          "vertexCount": 1053,
+          "indexCount": 4278,
+          "bounds": [
+            [
+              -0.22986,
+              1.0721832,
+              -0.11151875
+            ],
+            [
+              -0.135268,
+              1.4175312,
+              -0.07003564999999999
+            ]
+          ],
+          "positions": 0,
+          "normals": 12636,
+          "indices": 18956
+        },
+        {
+          "id": "FJ1478M",
+          "name": "Long head of left biceps brachii",
+          "conceptId": "FMA37687",
+          "system": "muscular",
+          "chunk": 0,
+          "vertexCount": 1039,
+          "indexCount": 4278,
+          "bounds": [
+            [
+              0.135268,
+              1.0721832,
+              -0.11151975
+            ],
+            [
+              0.22986,
+              1.4175312,
+              -0.07003564999999999
+            ]
+          ],
+          "positions": 36068,
+          "normals": 48536,
+          "indices": 54772
+        },
+        {
+          "id": "FJ1512",
+          "name": "Short head of right biceps brachii",
+          "conceptId": "FMA37684",
+          "system": "muscular",
+          "chunk": 0,
+          "vertexCount": 1739,
+          "indexCount": 5568,
+          "bounds": [
+            [
+              -0.21239,
+              1.1433312,
+              -0.11132775
+            ],
+            [
+              -0.135237,
+              1.4058712,
+              -0.07818485
+            ]
+          ],
+          "positions": 71884,
+          "normals": 92752,
+          "indices": 103188
+        },
+        {
+          "id": "FJ1512M",
+          "name": "Short head of left biceps brachii",
+          "conceptId": "FMA37685",
+          "system": "muscular",
+          "chunk": 0,
+          "vertexCount": 1743,
+          "indexCount": 5568,
+          "bounds": [
+            [
+              0.135237,
+              1.1433312,
+              -0.11132875
+            ],
+            [
+              0.21239,
+              1.4058712,
+              -0.07818485
+            ]
+          ],
+          "positions": 125460,
+          "normals": 146376,
+          "indices": 156836
+        },
+        {
+          "id": "FJ3262",
+          "name": "Left humerus",
+          "conceptId": "FMA23131",
+          "system": "skeletal",
+          "chunk": 0,
+          "vertexCount": 2073,
+          "indexCount": 11532,
+          "bounds": [
+            [
+              0.140073,
+              1.1073212,
+              -0.10245575
+            ],
+            [
+              0.24076,
+              1.4146311999999999,
+              -0.05328265
+            ]
+          ],
+          "positions": 179108,
+          "normals": 203984,
+          "indices": 216424
+        },
+        {
+          "id": "FJ3368",
+          "name": "Right humerus",
+          "conceptId": "FMA23130",
+          "system": "skeletal",
+          "chunk": 0,
+          "vertexCount": 2233,
+          "indexCount": 11352,
+          "bounds": [
+            [
+              -0.240841,
+              1.1073112,
+              -0.10244574999999999
+            ],
+            [
+              -0.14009,
+              1.4146512,
+              -0.05326585
+            ]
+          ],
+          "positions": 262552,
+          "normals": 289348,
+          "indices": 302748
+        },
+        {
+          "id": "FJ3279",
+          "name": "Left scapula",
+          "conceptId": "FMA13396",
+          "system": "skeletal",
+          "chunk": 0,
+          "vertexCount": 14068,
+          "indexCount": 84318,
+          "bounds": [
+            [
+              0.0570614,
+              1.2620612,
+              -0.10507174999999999
+            ],
+            [
+              0.166464,
+              1.4279711999999998,
+              0.00284965
+            ]
+          ],
+          "positions": 348156,
+          "normals": 516972,
+          "indices": 601380
+        },
+        {
+          "id": "FJ3384",
+          "name": "Right scapula",
+          "conceptId": "FMA13395",
+          "system": "skeletal",
+          "chunk": 0,
+          "vertexCount": 13118,
+          "indexCount": 78516,
+          "bounds": [
+            [
+              -0.166464,
+              1.2620712,
+              -0.10508274999999999
+            ],
+            [
+              -0.0570538,
+              1.4279711999999998,
+              0.0028559999999999996
+            ]
+          ],
+          "positions": 938652,
+          "normals": 1096068,
+          "indices": 1174776
+        }
+      ],
+      "contextIds": [
+        "FJ3262",
+        "FJ3368",
+        "FJ3279",
+        "FJ3384"
+      ],
+      "muscleIds": [
+        "FJ1478",
+        "FJ1478M",
+        "FJ1512",
+        "FJ1512M"
+      ]
+    },
+    "muscle-triceps-brachii": {
+      "url": "/models/muscle-triceps-brachii-hi.bin",
+      "sha256": "a9b3227e851d1d34edbb4064228bd0cb473bd8c9c1a426fdfa71457c2d798ada",
+      "bytes": 1552852,
+      "parts": [
+        {
+          "id": "FJ1477",
+          "name": "Lateral head of right triceps brachii",
+          "conceptId": "FMA37697",
+          "system": "muscular",
+          "chunk": 0,
+          "vertexCount": 1678,
+          "indexCount": 7818,
+          "bounds": [
+            [
+              -0.22800499999999999,
+              1.1140812,
+              -0.07102355
+            ],
+            [
+              -0.174456,
+              1.3702412,
+              -0.02231095
+            ]
+          ],
+          "positions": 0,
+          "normals": 20136,
+          "indices": 30204
+        },
+        {
+          "id": "FJ1477M",
+          "name": "Lateral head of left triceps brachii",
+          "conceptId": "FMA37698",
+          "system": "muscular",
+          "chunk": 0,
+          "vertexCount": 1676,
+          "indexCount": 7818,
+          "bounds": [
+            [
+              0.174456,
+              1.1140812,
+              -0.07102355
+            ],
+            [
+              0.22800499999999999,
+              1.3702412,
+              -0.02231095
+            ]
+          ],
+          "positions": 61476,
+          "normals": 81588,
+          "indices": 91644
+        },
+        {
+          "id": "FJ1479",
+          "name": "Long head of right triceps brachii",
+          "conceptId": "FMA37699",
+          "system": "muscular",
+          "chunk": 0,
+          "vertexCount": 1105,
+          "indexCount": 4764,
+          "bounds": [
+            [
+              -0.216462,
+              1.1133511999999999,
+              -0.06632885
+            ],
+            [
+              -0.134691,
+              1.3788612,
+              -0.020986249999999998
+            ]
+          ],
+          "positions": 122916,
+          "normals": 136176,
+          "indices": 142808
+        },
+        {
+          "id": "FJ1479M",
+          "name": "Long head of left triceps brachii",
+          "conceptId": "FMA37700",
+          "system": "muscular",
+          "chunk": 0,
+          "vertexCount": 1109,
+          "indexCount": 4764,
+          "bounds": [
+            [
+              0.134691,
+              1.1133511999999999,
+              -0.06632885
+            ],
+            [
+              0.216462,
+              1.3788612,
+              -0.020986349999999997
+            ]
+          ],
+          "positions": 161864,
+          "normals": 175172,
+          "indices": 181828
+        },
+        {
+          "id": "FJ1480",
+          "name": "Medial head of right triceps brachii",
+          "conceptId": "FMA37695",
+          "system": "muscular",
+          "chunk": 0,
+          "vertexCount": 620,
+          "indexCount": 2496,
+          "bounds": [
+            [
+              -0.226963,
+              1.1074612,
+              -0.07410665000000001
+            ],
+            [
+              -0.167373,
+              1.3341512,
+              -0.04854395
+            ]
+          ],
+          "positions": 200884,
+          "normals": 208324,
+          "indices": 212044
+        },
+        {
+          "id": "FJ1480M",
+          "name": "Medial head of left triceps brachii",
+          "conceptId": "FMA37696",
+          "system": "muscular",
+          "chunk": 0,
+          "vertexCount": 617,
+          "indexCount": 2496,
+          "bounds": [
+            [
+              0.167374,
+              1.1074612,
+              -0.07410665000000001
+            ],
+            [
+              0.226963,
+              1.3341512,
+              -0.04854395
+            ]
+          ],
+          "positions": 222028,
+          "normals": 229432,
+          "indices": 233136
+        },
+        {
+          "id": "FJ3262",
+          "name": "Left humerus",
+          "conceptId": "FMA23131",
+          "system": "skeletal",
+          "chunk": 0,
+          "vertexCount": 2073,
+          "indexCount": 11532,
+          "bounds": [
+            [
+              0.140073,
+              1.1073212,
+              -0.10245575
+            ],
+            [
+              0.24076,
+              1.4146311999999999,
+              -0.05328265
+            ]
+          ],
+          "positions": 243120,
+          "normals": 267996,
+          "indices": 280436
+        },
+        {
+          "id": "FJ3368",
+          "name": "Right humerus",
+          "conceptId": "FMA23130",
+          "system": "skeletal",
+          "chunk": 0,
+          "vertexCount": 2233,
+          "indexCount": 11352,
+          "bounds": [
+            [
+              -0.240841,
+              1.1073112,
+              -0.10244574999999999
+            ],
+            [
+              -0.14009,
+              1.4146512,
+              -0.05326585
+            ]
+          ],
+          "positions": 326564,
+          "normals": 353360,
+          "indices": 366760
+        },
+        {
+          "id": "FJ3279",
+          "name": "Left scapula",
+          "conceptId": "FMA13396",
+          "system": "skeletal",
+          "chunk": 0,
+          "vertexCount": 14068,
+          "indexCount": 84318,
+          "bounds": [
+            [
+              0.0570614,
+              1.2620612,
+              -0.10507174999999999
+            ],
+            [
+              0.166464,
+              1.4279711999999998,
+              0.00284965
+            ]
+          ],
+          "positions": 412168,
+          "normals": 580984,
+          "indices": 665392
+        },
+        {
+          "id": "FJ3384",
+          "name": "Right scapula",
+          "conceptId": "FMA13395",
+          "system": "skeletal",
+          "chunk": 0,
+          "vertexCount": 13118,
+          "indexCount": 78516,
+          "bounds": [
+            [
+              -0.166464,
+              1.2620712,
+              -0.10508274999999999
+            ],
+            [
+              -0.0570538,
+              1.4279711999999998,
+              0.0028559999999999996
+            ]
+          ],
+          "positions": 1002664,
+          "normals": 1160080,
+          "indices": 1238788
+        }
+      ],
+      "contextIds": [
+        "FJ3262",
+        "FJ3368",
+        "FJ3279",
+        "FJ3384"
+      ],
+      "muscleIds": [
+        "FJ1477",
+        "FJ1477M",
+        "FJ1479",
+        "FJ1479M",
+        "FJ1480",
+        "FJ1480M"
+      ]
+    }
+  }
+}

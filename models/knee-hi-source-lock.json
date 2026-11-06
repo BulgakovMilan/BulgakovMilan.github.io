@@ -1,0 +1,82 @@
+{
+  "repository": "https://github.com/olivercase/body_parts_3d_api",
+  "revision": "fd527e6f4daf732fd814314d9257df5877b844bc",
+  "membership": {
+    "url": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/metadata/FMA2Obj.txt",
+    "sha256": "a199eb9cb258266768b7690f4ac2591f67d4b146c95e14046c46091c35c09385"
+  },
+  "sources": [
+    {
+      "id": "FJ3365",
+      "conceptId": "FMA24474",
+      "name": "Right femur",
+      "path": "meshes/FJ3365_BP23346_FMA24474_Right femur.obj",
+      "sha256": "4ecf1a20a04bcf7963c23fde40e41bef9842c4a584337ea131c6a090bd53e9cb",
+      "bytes": 191750,
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3365_BP23346_FMA24474_Right%20femur.obj"
+    },
+    {
+      "id": "FJ3259",
+      "conceptId": "FMA24475",
+      "name": "Left femur",
+      "path": "meshes/FJ3259_BP23820_FMA24475_Left femur.obj",
+      "sha256": "caaeea4b7fd4ff7b5065b03a991c47e35a57f2aa7bac793f52b06a704c7eca53",
+      "bytes": 196814,
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3259_BP23820_FMA24475_Left%20femur.obj"
+    },
+    {
+      "id": "FJ3387",
+      "conceptId": "FMA24477",
+      "name": "Right tibia",
+      "path": "meshes/FJ3387_BP23960_FMA24477_Right tibia.obj",
+      "sha256": "5fe201dfb80da682439c70444d97c705b9b3079b340aec00406074a304688d61",
+      "bytes": 99776,
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3387_BP23960_FMA24477_Right%20tibia.obj"
+    },
+    {
+      "id": "FJ3282",
+      "conceptId": "FMA24478",
+      "name": "Left tibia",
+      "path": "meshes/FJ3282_BP23963_FMA24478_Left tibia.obj",
+      "sha256": "38346f7a254ac8f574facdbed1099a7894b87ebee06d1151dcee41583680e5da",
+      "bytes": 101028,
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3282_BP23963_FMA24478_Left%20tibia.obj"
+    },
+    {
+      "id": "FJ3366",
+      "conceptId": "FMA24480",
+      "name": "Right fibula",
+      "path": "meshes/FJ3366_BP23268_FMA24480_Right fibula.obj",
+      "sha256": "64272264d3aba3cd3226a1d2df47008c4f4375df52367be85df765dac83cdba6",
+      "bytes": 68833,
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3366_BP23268_FMA24480_Right%20fibula.obj"
+    },
+    {
+      "id": "FJ3260",
+      "conceptId": "FMA24481",
+      "name": "Left fibula",
+      "path": "meshes/FJ3260_BP24067_FMA24481_Left fibula.obj",
+      "sha256": "94d8f624931202824a1394bd12f583d8a3944c2a96ffd286c2d09d517c6e6120",
+      "bytes": 66715,
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3260_BP24067_FMA24481_Left%20fibula.obj"
+    },
+    {
+      "id": "FJ3381",
+      "conceptId": "FMA24486",
+      "name": "Right patella",
+      "path": "meshes/FJ3381_BP23756_FMA24486_Right patella.obj",
+      "sha256": "0047f75b0dc301a7531323631e54500765dd323b2c4554d72e6cfc250e753c55",
+      "bytes": 18841,
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3381_BP23756_FMA24486_Right%20patella.obj"
+    },
+    {
+      "id": "FJ3275",
+      "conceptId": "FMA24487",
+      "name": "Left patella",
+      "path": "meshes/FJ3275_BP23711_FMA24487_Left patella.obj",
+      "sha256": "2090a1b59431e36ce69dbfde88565053d6af126db63f29808c955b7aba8e1e3e",
+      "bytes": 18804,
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3275_BP23711_FMA24487_Left%20patella.obj"
+    }
+  ]
+}

@@ -1,0 +1,401 @@
+{
+  "source": "BodyParts3D / Anatomography",
+  "author": "Database Center for Life Science (DBCLS)",
+  "sourceVersion": "4.3",
+  "repository": "https://github.com/olivercase/body_parts_3d_api",
+  "revision": "fd527e6f4daf732fd814314d9257df5877b844bc",
+  "license": "CC BY-SA 2.1 Japan",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.1/jp/",
+  "licenseEvidence": "https://lifesciencedb.jp/bp3d/info_en/license/index.html",
+  "changes": "All original vertices and triangles retained. Common shoulder transform [x/1000,z/1000+0.0781112,y/1000-0.00222675]; winding reversed; unit normals quantized to int16. No per-object offsets, mirroring, smoothing, decimation or segmentation.",
+  "sourceLock": "/models/wrist-hi-source-lock.json",
+  "url": "/models/wrist-hi.bin",
+  "sha256": "b28d2723f7a2e4df2e4eeda20fd832da6a0bb611e3c37efe0ddf79e66243449d",
+  "bytes": 128368,
+  "parts": [
+    {
+      "id": "FJ3257",
+      "name": "Left capitate",
+      "conceptId": "FMA24447",
+      "system": "skeletal",
+      "chunk": 0,
+      "vertexCount": 237,
+      "indexCount": 1206,
+      "bounds": [
+        [
+          0.24861000000000003,
+          0.8602752,
+          -0.12957775
+        ],
+        [
+          0.264288,
+          0.8826992,
+          -0.11279974999999999
+        ]
+      ],
+      "positions": 0,
+      "normals": 2844,
+      "indices": 4268
+    },
+    {
+      "id": "FJ3261",
+      "name": "Left hamate",
+      "conceptId": "FMA24449",
+      "system": "skeletal",
+      "chunk": 0,
+      "vertexCount": 280,
+      "indexCount": 1356,
+      "bounds": [
+        [
+          0.236597,
+          0.8593672,
+          -0.13620875
+        ],
+        [
+          0.25157,
+          0.8787422,
+          -0.11354875
+        ]
+      ],
+      "positions": 9092,
+      "normals": 12452,
+      "indices": 14132
+    },
+    {
+      "id": "FJ3268",
+      "name": "Left lunate",
+      "conceptId": "FMA24438",
+      "system": "skeletal",
+      "chunk": 0,
+      "vertexCount": 187,
+      "indexCount": 942,
+      "bounds": [
+        [
+          0.236339,
+          0.8753332,
+          -0.12935775
+        ],
+        [
+          0.252883,
+          0.8879992000000001,
+          -0.11285475
+        ]
+      ],
+      "positions": 19556,
+      "normals": 21800,
+      "indices": 22924
+    },
+    {
+      "id": "FJ3276",
+      "name": "Left pisiform",
+      "conceptId": "FMA24442",
+      "system": "skeletal",
+      "chunk": 0,
+      "vertexCount": 116,
+      "indexCount": 630,
+      "bounds": [
+        [
+          0.231838,
+          0.8678362000000001,
+          -0.13981575
+        ],
+        [
+          0.24003,
+          0.8793882000000001,
+          -0.12925775
+        ]
+      ],
+      "positions": 26692,
+      "normals": 28084,
+      "indices": 28780
+    },
+    {
+      "id": "FJ3278",
+      "name": "Left scaphoid",
+      "conceptId": "FMA24436",
+      "system": "skeletal",
+      "chunk": 0,
+      "vertexCount": 176,
+      "indexCount": 936,
+      "bounds": [
+        [
+          0.249452,
+          0.8743312000000001,
+          -0.12867075
+        ],
+        [
+          0.27297699999999997,
+          0.8897932000000001,
+          -0.11375375
+        ]
+      ],
+      "positions": 31300,
+      "normals": 33412,
+      "indices": 34468
+    },
+    {
+      "id": "FJ3283",
+      "name": "Left trapezium",
+      "conceptId": "FMA24444",
+      "system": "skeletal",
+      "chunk": 0,
+      "vertexCount": 226,
+      "indexCount": 1068,
+      "bounds": [
+        [
+          0.264781,
+          0.8638582,
+          -0.13678075
+        ],
+        [
+          0.281795,
+          0.8839042,
+          -0.11993675
+        ]
+      ],
+      "positions": 38212,
+      "normals": 40924,
+      "indices": 42280
+    },
+    {
+      "id": "FJ3284",
+      "name": "Left trapezoid",
+      "conceptId": "FMA24445",
+      "system": "skeletal",
+      "chunk": 0,
+      "vertexCount": 279,
+      "indexCount": 1194,
+      "bounds": [
+        [
+          0.26225299999999996,
+          0.8608332000000001,
+          -0.13067674999999998
+        ],
+        [
+          0.273289,
+          0.8733812000000001,
+          -0.11587175
+        ]
+      ],
+      "positions": 46552,
+      "normals": 49900,
+      "indices": 51576
+    },
+    {
+      "id": "FJ3285",
+      "name": "Left triquetral",
+      "conceptId": "FMA24440",
+      "system": "skeletal",
+      "chunk": 0,
+      "vertexCount": 180,
+      "indexCount": 912,
+      "bounds": [
+        [
+          0.231821,
+          0.8670602,
+          -0.13203374999999998
+        ],
+        [
+          0.242731,
+          0.8806312000000001,
+          -0.11665175
+        ]
+      ],
+      "positions": 56352,
+      "normals": 58512,
+      "indices": 59592
+    },
+    {
+      "id": "FJ3361",
+      "name": "Right capitate",
+      "conceptId": "FMA24446",
+      "system": "skeletal",
+      "chunk": 0,
+      "vertexCount": 256,
+      "indexCount": 1284,
+      "bounds": [
+        [
+          -0.26448200000000005,
+          0.8603022000000001,
+          -0.12971875
+        ],
+        [
+          -0.248401,
+          0.8827082,
+          -0.11276075
+        ]
+      ],
+      "positions": 63240,
+      "normals": 66312,
+      "indices": 67848
+    },
+    {
+      "id": "FJ3367",
+      "name": "Right hamate",
+      "conceptId": "FMA24448",
+      "system": "skeletal",
+      "chunk": 0,
+      "vertexCount": 335,
+      "indexCount": 1566,
+      "bounds": [
+        [
+          -0.251928,
+          0.8594042000000001,
+          -0.13615775000000002
+        ],
+        [
+          -0.2366,
+          0.8787642000000001,
+          -0.11363275
+        ]
+      ],
+      "positions": 72984,
+      "normals": 77004,
+      "indices": 79016
+    },
+    {
+      "id": "FJ3374",
+      "name": "Right lunate",
+      "conceptId": "FMA24437",
+      "system": "skeletal",
+      "chunk": 0,
+      "vertexCount": 196,
+      "indexCount": 996,
+      "bounds": [
+        [
+          -0.252724,
+          0.8755722,
+          -0.12915075
+        ],
+        [
+          -0.236202,
+          0.8879312000000001,
+          -0.11286175000000001
+        ]
+      ],
+      "positions": 85280,
+      "normals": 87632,
+      "indices": 88808
+    },
+    {
+      "id": "FJ3382",
+      "name": "Right pisiform",
+      "conceptId": "FMA24441",
+      "system": "skeletal",
+      "chunk": 0,
+      "vertexCount": 110,
+      "indexCount": 570,
+      "bounds": [
+        [
+          -0.24022,
+          0.8677862,
+          -0.13988474999999997
+        ],
+        [
+          -0.231956,
+          0.8794362000000001,
+          -0.12947575
+        ]
+      ],
+      "positions": 92792,
+      "normals": 94112,
+      "indices": 94772
+    },
+    {
+      "id": "FJ3383",
+      "name": "Right scaphoid",
+      "conceptId": "FMA24435",
+      "system": "skeletal",
+      "chunk": 0,
+      "vertexCount": 195,
+      "indexCount": 966,
+      "bounds": [
+        [
+          -0.27306,
+          0.8744652,
+          -0.12888975
+        ],
+        [
+          -0.249332,
+          0.8899012000000001,
+          -0.11380074999999999
+        ]
+      ],
+      "positions": 97052,
+      "normals": 99392,
+      "indices": 100564
+    },
+    {
+      "id": "FJ3388",
+      "name": "Right trapezium",
+      "conceptId": "FMA24443",
+      "system": "skeletal",
+      "chunk": 0,
+      "vertexCount": 277,
+      "indexCount": 1302,
+      "bounds": [
+        [
+          -0.281722,
+          0.8639162,
+          -0.13680275
+        ],
+        [
+          -0.264938,
+          0.8838442,
+          -0.11995675
+        ]
+      ],
+      "positions": 104428,
+      "normals": 107752,
+      "indices": 109416
+    },
+    {
+      "id": "FJ3389",
+      "name": "Right trapezoid",
+      "conceptId": "FMA23725",
+      "system": "skeletal",
+      "chunk": 0,
+      "vertexCount": 271,
+      "indexCount": 1080,
+      "bounds": [
+        [
+          -0.27326100000000003,
+          0.8609762000000001,
+          -0.13061475
+        ],
+        [
+          -0.26214,
+          0.8734222,
+          -0.11575375
+        ]
+      ],
+      "positions": 114624,
+      "normals": 117876,
+      "indices": 119504
+    },
+    {
+      "id": "FJ3390",
+      "name": "Right triquetral",
+      "conceptId": "FMA24439",
+      "system": "skeletal",
+      "chunk": 0,
+      "vertexCount": 139,
+      "indexCount": 510,
+      "bounds": [
+        [
+          -0.24276599999999998,
+          0.8668802000000001,
+          -0.13196275
+        ],
+        [
+          -0.232157,
+          0.8807012000000001,
+          -0.11685775
+        ]
+      ],
+      "positions": 123824,
+      "normals": 125492,
+      "indices": 126328
+    }
+  ]
+}

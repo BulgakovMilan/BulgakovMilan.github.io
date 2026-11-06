@@ -1,0 +1,19 @@
+{
+  "id": "bodyparts3d-scapulae-v1",
+  "url": "/models/scapula.glb",
+  "original": "/models/scapula.stl",
+  "license": "CC-BY-SA-2.1-JP",
+  "author": "Database Center for Life Science",
+  "source": "https://commons.wikimedia.org/wiki/File:BodyParts3D_Scapula.stl",
+  "changes": "Converted STL to indexed GLB; welded coincident vertices at tolerance 0.00001 source units; recalculated vertex normals. No anatomical annotations.",
+  "medicalReview": "pending",
+  "annotationReview": "not-annotated",
+  "supportedMeshIds": [
+    "scapulae"
+  ],
+  "triangles": 54278,
+  "vertices": 27143,
+  "bytes": 1304036,
+  "sha256": "08555145b5e6377f600a2b1ecfd0bbe57a916cead00bdbf7b74304b0855fe356",
+  "originalSha256": "ebfae4fa279e1b5b71537a73320f39d905a0d3631be187d621ab28da68656e15"
+}

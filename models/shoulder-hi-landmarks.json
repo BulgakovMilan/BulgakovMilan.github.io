@@ -1,0 +1,38 @@
+{
+  "source": "https://github.com/Grypa-JJ/anatomy-atlas-3d/blob/main/_atlas_v2/build_full/bone_landmarks_v2.json",
+  "sourceAttribution": "CC BY-SA 4.0; attribution to Z-Anatomy / Grypa-JJ",
+  "geometrySource": "BodyParts3D / Anatomography 4.3 (full resolution), curated by Oliver Case",
+  "modelSha256": "46341e10f4f4ad723c94f718102dd5d0e056436efe2520ea325e3de2d0f39ea2",
+  "status": "provisional_nearest_vertex; NOT medically reviewed; NOT segment masks; NEVER use for grading",
+  "meshId": "FJ3384",
+  "points": [
+    {
+      "id": "acromion",
+      "ru": "Акромион",
+      "latin": "acromion",
+      "meshId": "FJ3384",
+      "position": [
+        -0.164202,
+        1.41498125,
+        -0.04655395
+      ],
+      "previousMeshDistanceMm": 1.91,
+      "previousSourceDistanceMm": 2.2,
+      "review": "provisional"
+    },
+    {
+      "id": "notch",
+      "ru": "Вырезка лопатки",
+      "latin": "incisura scapulae",
+      "meshId": "FJ3384",
+      "position": [
+        -0.108574,
+        1.39244115,
+        -0.04767595
+      ],
+      "previousMeshDistanceMm": 2.38,
+      "previousSourceDistanceMm": 2.63,
+      "review": "provisional"
+    }
+  ]
+}

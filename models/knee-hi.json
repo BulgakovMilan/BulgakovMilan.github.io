@@ -1,0 +1,209 @@
+{
+  "source": "BodyParts3D / Anatomography",
+  "author": "Database Center for Life Science (DBCLS)",
+  "sourceVersion": "4.3",
+  "repository": "https://github.com/olivercase/body_parts_3d_api",
+  "revision": "fd527e6f4daf732fd814314d9257df5877b844bc",
+  "license": "CC BY-SA 2.1 Japan",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.1/jp/",
+  "licenseEvidence": "https://lifesciencedb.jp/bp3d/info_en/license/index.html",
+  "changes": "All original vertices and triangles retained. Common registered transform [x/1000,z/1000+0.0781112,y/1000-0.00222675]; winding reversed; unit normals quantized to int16. No per-object offsets, mirroring, smoothing, decimation or segmentation.",
+  "sourceLock": "/models/knee-hi-source-lock.json",
+  "url": "/models/knee-hi.bin",
+  "sha256": "8a8da9b15546353bfa7c28ac1252028e0ba4c4a4bd4155ede8396103cf8a0061",
+  "bytes": 266852,
+  "parts": [
+    {
+      "id": "FJ3365",
+      "name": "Right femur",
+      "conceptId": "FMA24474",
+      "system": "skeletal",
+      "chunk": 0,
+      "vertexCount": 1574,
+      "indexCount": 9306,
+      "bounds": [
+        [
+          -0.150134,
+          0.44626119999999997,
+          -0.11441874999999999
+        ],
+        [
+          -0.0318943,
+          0.9123632,
+          -0.05175695
+        ]
+      ],
+      "positions": 0,
+      "normals": 18888,
+      "indices": 28332
+    },
+    {
+      "id": "FJ3259",
+      "name": "Left femur",
+      "conceptId": "FMA24475",
+      "system": "skeletal",
+      "chunk": 0,
+      "vertexCount": 1623,
+      "indexCount": 9612,
+      "bounds": [
+        [
+          0.0319662,
+          0.4461672,
+          -0.11450275
+        ],
+        [
+          0.15023699999999998,
+          0.9123502000000001,
+          -0.05170895
+        ]
+      ],
+      "positions": 65556,
+      "normals": 85032,
+      "indices": 94772
+    },
+    {
+      "id": "FJ3387",
+      "name": "Right tibia",
+      "conceptId": "FMA24477",
+      "system": "skeletal",
+      "chunk": 0,
+      "vertexCount": 857,
+      "indexCount": 4992,
+      "bounds": [
+        [
+          -0.10935299999999999,
+          0.07207404,
+          -0.11706174999999999
+        ],
+        [
+          -0.035216000000000004,
+          0.4520312,
+          -0.05429965
+        ]
+      ],
+      "positions": 133220,
+      "normals": 143504,
+      "indices": 148648
+    },
+    {
+      "id": "FJ3282",
+      "name": "Left tibia",
+      "conceptId": "FMA24478",
+      "system": "skeletal",
+      "chunk": 0,
+      "vertexCount": 880,
+      "indexCount": 5076,
+      "bounds": [
+        [
+          0.0350342,
+          0.07201587000000001,
+          -0.11674175
+        ],
+        [
+          0.109455,
+          0.4519732,
+          -0.05420885
+        ]
+      ],
+      "positions": 168616,
+      "normals": 179176,
+      "indices": 184456
+    },
+    {
+      "id": "FJ3366",
+      "name": "Right fibula",
+      "conceptId": "FMA24480",
+      "system": "skeletal",
+      "chunk": 0,
+      "vertexCount": 593,
+      "indexCount": 3426,
+      "bounds": [
+        [
+          -0.12016500000000001,
+          0.052831300000000005,
+          -0.08039555000000001
+        ],
+        [
+          -0.0843445,
+          0.43726119999999996,
+          -0.05071415
+        ]
+      ],
+      "positions": 204760,
+      "normals": 211876,
+      "indices": 215436
+    },
+    {
+      "id": "FJ3260",
+      "name": "Left fibula",
+      "conceptId": "FMA24481",
+      "system": "skeletal",
+      "chunk": 0,
+      "vertexCount": 577,
+      "indexCount": 3372,
+      "bounds": [
+        [
+          0.08452899999999999,
+          0.052920600000000005,
+          -0.08034575
+        ],
+        [
+          0.120108,
+          0.43724219999999997,
+          -0.05076075
+        ]
+      ],
+      "positions": 229140,
+      "normals": 236064,
+      "indices": 239528
+    },
+    {
+      "id": "FJ3381",
+      "name": "Right patella",
+      "conceptId": "FMA24486",
+      "system": "skeletal",
+      "chunk": 0,
+      "vertexCount": 178,
+      "indexCount": 918,
+      "bounds": [
+        [
+          -0.10228799999999999,
+          0.43959719999999997,
+          -0.12495375
+        ],
+        [
+          -0.0606208,
+          0.4789072,
+          -0.10321875
+        ]
+      ],
+      "positions": 253016,
+      "normals": 255152,
+      "indices": 256220
+    },
+    {
+      "id": "FJ3275",
+      "name": "Left patella",
+      "conceptId": "FMA24487",
+      "system": "skeletal",
+      "chunk": 0,
+      "vertexCount": 180,
+      "indexCount": 930,
+      "bounds": [
+        [
+          0.0605925,
+          0.4396082,
+          -0.12497775
+        ],
+        [
+          0.10222400000000001,
+          0.47887419999999997,
+          -0.10312774999999999
+        ]
+      ],
+      "positions": 259892,
+      "normals": 262052,
+      "indices": 263132
+    }
+  ]
+}

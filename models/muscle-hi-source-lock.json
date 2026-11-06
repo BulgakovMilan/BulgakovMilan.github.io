@@ -1,0 +1,220 @@
+{
+  "repository": "https://github.com/olivercase/body_parts_3d_api",
+  "revision": "fd527e6f4daf732fd814314d9257df5877b844bc",
+  "membership": {
+    "url": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/metadata/FMA2Obj.txt",
+    "sha256": "a199eb9cb258266768b7690f4ac2591f67d4b146c95e14046c46091c35c09385"
+  },
+  "sources": [
+    {
+      "id": "FJ1467",
+      "path": "meshes/FJ1467_BP23172_FMA34682_Acromial part of right deltoid.obj",
+      "sha256": "da5c025e90963016d6ff7b982d45393167b2cd0bfe4fc4e733eb3ffcae3d5e74",
+      "bytes": 92227,
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1467_BP23172_FMA34682_Acromial%20part%20of%20right%20deltoid.obj"
+    },
+    {
+      "id": "FJ1467M",
+      "path": "meshes/FJ1467M_BP23036_FMA34683_Acromial part of left deltoid.obj",
+      "sha256": "615c8bb7daa5824e6d2a5d3ebdc3d28392a29c4ede76cf73751a4459cb87ce2b",
+      "bytes": 91505,
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1467M_BP23036_FMA34683_Acromial%20part%20of%20left%20deltoid.obj"
+    },
+    {
+      "id": "FJ1468",
+      "path": "meshes/FJ1468_BP23257_FMA34680_Clavicular part of right deltoid.obj",
+      "sha256": "6d381bac512e455e7816dcef19f1540d1a9c281cc86074cde2e6d5a1e4ad4330",
+      "bytes": 223293,
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1468_BP23257_FMA34680_Clavicular%20part%20of%20right%20deltoid.obj"
+    },
+    {
+      "id": "FJ1468M",
+      "path": "meshes/FJ1468M_BP23060_FMA34681_Clavicular part of left deltoid.obj",
+      "sha256": "3ef0c665b228c01c3b39e59e5ac20f609b95dfe2eec8a29c64e3ce73456195a1",
+      "bytes": 221642,
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1468M_BP23060_FMA34681_Clavicular%20part%20of%20left%20deltoid.obj"
+    },
+    {
+      "id": "FJ1513",
+      "path": "meshes/FJ1513_BP23106_FMA34684_Spinal part of right deltoid.obj",
+      "sha256": "4477f1b005b4492d637198f78707611c28a48b3c679e30960c6ac3de2fe08bc7",
+      "bytes": 156772,
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1513_BP23106_FMA34684_Spinal%20part%20of%20right%20deltoid.obj"
+    },
+    {
+      "id": "FJ1513M",
+      "path": "meshes/FJ1513M_BP23094_FMA34685_Spinal part of left deltoid.obj",
+      "sha256": "3f6ec5b7c1fc0689b27f93850c15a5265787e86be4c76f8911e8a605bf83683a",
+      "bytes": 156368,
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1513M_BP23094_FMA34685_Spinal%20part%20of%20left%20deltoid.obj"
+    },
+    {
+      "id": "FJ1500",
+      "path": "meshes/FJ1500_BP22313_FMA32547_Right infraspinatus.obj",
+      "sha256": "7729979c6f7311cd1204aef8de5cf6909abd660aa9b1b18b8017b988bd3d2a60",
+      "bytes": 69473,
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1500_BP22313_FMA32547_Right%20infraspinatus.obj"
+    },
+    {
+      "id": "FJ1500M",
+      "path": "meshes/FJ1500M_BP20405_FMA32548_Left infraspinatus.obj",
+      "sha256": "a42c7d23ce4f0e6f07eaf8155f0d5abb1da010bf330f2e28653cc63eedfc195e",
+      "bytes": 68675,
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1500M_BP20405_FMA32548_Left%20infraspinatus.obj"
+    },
+    {
+      "id": "FJ1504",
+      "path": "meshes/FJ1504_BP20479_FMA13414_Right subscapularis.obj",
+      "sha256": "efba92fb01a5177002da240974930972141678a7f77ece9d421fea04a73ca29c",
+      "bytes": 231369,
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1504_BP20479_FMA13414_Right%20subscapularis.obj"
+    },
+    {
+      "id": "FJ1504M",
+      "path": "meshes/FJ1504M_BP20341_FMA13415_Left subscapularis.obj",
+      "sha256": "22825f6bbd55d795edb372b8525919f14e363dc65d4e8c77b396065f8f886e46",
+      "bytes": 227740,
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1504M_BP20341_FMA13415_Left%20subscapularis.obj"
+    },
+    {
+      "id": "FJ1506",
+      "path": "meshes/FJ1506_BP20406_FMA32544_Right supraspinatus.obj",
+      "sha256": "de9878da3fc40360dfd7e4e510939a77dff99c5290e9efa35c10b705a96192d3",
+      "bytes": 75808,
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1506_BP20406_FMA32544_Right%20supraspinatus.obj"
+    },
+    {
+      "id": "FJ1506M",
+      "path": "meshes/FJ1506M_BP20454_FMA32545_Left supraspinatus.obj",
+      "sha256": "e7f3cd390967267c8a5279f6140f5dabdad8b8d3c7ffc52feabdc2e8be35c645",
+      "bytes": 74704,
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1506M_BP20454_FMA32545_Left%20supraspinatus.obj"
+    },
+    {
+      "id": "FJ1508",
+      "path": "meshes/FJ1508_BP20345_FMA32553_Right teres minor.obj",
+      "sha256": "75fd77bb9ca7dbd6c9f2486590b60e32e2d708ce3e24448e18a089296aab0673",
+      "bytes": 37648,
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1508_BP20345_FMA32553_Right%20teres%20minor.obj"
+    },
+    {
+      "id": "FJ1508M",
+      "path": "meshes/FJ1508M_BP20604_FMA32554_Left teres minor.obj",
+      "sha256": "744a5c5d0907ce7ed94c5d40d1225c41f2b448c1346951230bb597e7731aaeff",
+      "bytes": 37318,
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1508M_BP20604_FMA32554_Left%20teres%20minor.obj"
+    },
+    {
+      "id": "FJ1478",
+      "path": "meshes/FJ1478_BP23056_FMA37686_Long head of right biceps brachii.obj",
+      "sha256": "439f58dbb0f3a06fcafbb644466eab891cfa2ee39c1d320242a1b0b4f8218ec5",
+      "bytes": 105022,
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1478_BP23056_FMA37686_Long%20head%20of%20right%20biceps%20brachii.obj"
+    },
+    {
+      "id": "FJ1478M",
+      "path": "meshes/FJ1478M_BP23144_FMA37687_Long head of left biceps brachii.obj",
+      "sha256": "0e937594636cd204353f14c6a7e7d3851ed2393152d249b156529b7fdde567f6",
+      "bytes": 102896,
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1478M_BP23144_FMA37687_Long%20head%20of%20left%20biceps%20brachii.obj"
+    },
+    {
+      "id": "FJ1512",
+      "path": "meshes/FJ1512_BP23133_FMA37684_Short head of right biceps brachii.obj",
+      "sha256": "5ea1a15a26755840e19a423b69142a14f6ab176038b1083b51ec0dd91e63deda",
+      "bytes": 161143,
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1512_BP23133_FMA37684_Short%20head%20of%20right%20biceps%20brachii.obj"
+    },
+    {
+      "id": "FJ1512M",
+      "path": "meshes/FJ1512M_BP23332_FMA37685_Short head of left biceps brachii.obj",
+      "sha256": "3ee6845a763fbafc633160fae4f93a61702524aef5851d151f4c49176cfadb3c",
+      "bytes": 159419,
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1512M_BP23332_FMA37685_Short%20head%20of%20left%20biceps%20brachii.obj"
+    },
+    {
+      "id": "FJ1477",
+      "path": "meshes/FJ1477_BP21319_FMA37697_Lateral head of right triceps brachii.obj",
+      "sha256": "a71cb96968d9e7540eb123e7f8b3ff959839ff3d247c903eb990d459dc8a68db",
+      "bytes": 181886,
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1477_BP21319_FMA37697_Lateral%20head%20of%20right%20triceps%20brachii.obj"
+    },
+    {
+      "id": "FJ1477M",
+      "path": "meshes/FJ1477M_BP23168_FMA37698_Lateral head of left triceps brachii.obj",
+      "sha256": "0f0b1ad1426e98dc6421d845d40f63dc18ef219bf04fc9637e5d385d6e62d96a",
+      "bytes": 180087,
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1477M_BP23168_FMA37698_Lateral%20head%20of%20left%20triceps%20brachii.obj"
+    },
+    {
+      "id": "FJ1479",
+      "path": "meshes/FJ1479_BP23146_FMA37699_Long head of right triceps brachii.obj",
+      "sha256": "57de58429fb15e66ac3406d7de1caf0ef50414748b6b9bfac4654189bb4a2b2c",
+      "bytes": 112923,
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1479_BP23146_FMA37699_Long%20head%20of%20right%20triceps%20brachii.obj"
+    },
+    {
+      "id": "FJ1479M",
+      "path": "meshes/FJ1479M_BP23325_FMA37700_Long head of left triceps brachii.obj",
+      "sha256": "fec065030a3e7a6cfabfed601961861ef6d97bfa62008d54ea9b22aeaf45a223",
+      "bytes": 112104,
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1479M_BP23325_FMA37700_Long%20head%20of%20left%20triceps%20brachii.obj"
+    },
+    {
+      "id": "FJ1480",
+      "path": "meshes/FJ1480_BP23121_FMA37695_Medial head of right triceps brachii.obj",
+      "sha256": "51a650c6a1888eee8dd10439ccaec9a0f9f183c2b99f5c5c47325698495b2dc4",
+      "bytes": 61244,
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1480_BP23121_FMA37695_Medial%20head%20of%20right%20triceps%20brachii.obj"
+    },
+    {
+      "id": "FJ1480M",
+      "path": "meshes/FJ1480M_BP23335_FMA37696_Medial head of left triceps brachii.obj",
+      "sha256": "6cf0dcbd666d5191be0c6f705986d58d29d10048ff508e7e00f7db8571f46f75",
+      "bytes": 60220,
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1480M_BP23335_FMA37696_Medial%20head%20of%20left%20triceps%20brachii.obj"
+    },
+    {
+      "id": "FJ3384",
+      "path": "meshes/FJ3384_BP23090_FMA13395_Right scapula.obj",
+      "sha256": "3873c4310d32f3269af812eac978aa32292359f5bd4af7f7e422b7f87b835a6f",
+      "bytes": 1743404,
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3384_BP23090_FMA13395_Right%20scapula.obj"
+    },
+    {
+      "id": "FJ3362",
+      "path": "meshes/FJ3362_BP23174_FMA13322_Right clavicle.obj",
+      "sha256": "ea1c86d112c0635759ecf6ca9633b023b87e16511f01d6ef165b98d729316970",
+      "bytes": 67957,
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3362_BP23174_FMA13322_Right%20clavicle.obj"
+    },
+    {
+      "id": "FJ3368",
+      "path": "meshes/FJ3368_BP23164_FMA23130_Right humerus.obj",
+      "sha256": "0ad8a599aa3189fe4085c3d2d9b51f38c4aa46dcc8491769b4d5a03fc5666e38",
+      "bytes": 256200,
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3368_BP23164_FMA23130_Right%20humerus.obj"
+    },
+    {
+      "id": "FJ3279",
+      "path": "meshes/FJ3279_BP23279_FMA13396_Left scapula.obj",
+      "sha256": "87cebf8702718e03dd10afbee87a50abce47139802ff305c749b33f40d451fda",
+      "bytes": 1865374,
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3279_BP23279_FMA13396_Left%20scapula.obj"
+    },
+    {
+      "id": "FJ3237",
+      "path": "meshes/FJ3237_BP23283_FMA13323_Left clavicle.obj",
+      "sha256": "a7eda265732db6c87ab0fb8c8f78a274882ceca59510991b0e7b32078c08152f",
+      "bytes": 69345,
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3237_BP23283_FMA13323_Left%20clavicle.obj"
+    },
+    {
+      "id": "FJ3262",
+      "path": "meshes/FJ3262_BP24066_FMA23131_Left humerus.obj",
+      "sha256": "c9512362bc5bb07b29292a5444eda8be7f6f6a0959f59213a695bc6323aa0010",
+      "bytes": 247065,
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3262_BP24066_FMA23131_Left%20humerus.obj"
+    }
+  ]
+}

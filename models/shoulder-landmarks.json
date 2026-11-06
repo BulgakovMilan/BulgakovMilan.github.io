@@ -1,0 +1,80 @@
+{
+  "source": "https://github.com/Grypa-JJ/anatomy-atlas-3d/blob/main/_atlas_v2/build_full/bone_landmarks_v2.json",
+  "license": "CC BY-SA 4.0; attribution to Z-Anatomy / Grypa-JJ",
+  "status": "provisional_nearest_surface; NOT expert-verified; NOT a segmented structure",
+  "bone": "FJ3384",
+  "landmarks": {
+    "acromion": {
+      "position": [
+        -0.16267499327659607,
+        1.4159611463546753,
+        -0.04596399888396263
+      ],
+      "sourceName": "Acromion",
+      "sourceDistanceMm": 2.2
+    },
+    "glenoid": {
+      "position": [
+        -0.15150399506092072,
+        1.3759912252426147,
+        -0.04253840073943138
+      ],
+      "sourceName": "Glenoid fossa",
+      "sourceDistanceMm": 0.61
+    },
+    "notch": {
+      "position": [
+        -0.10847099870443344,
+        1.39168119430542,
+        -0.04992479830980301
+      ],
+      "sourceName": "Scapular notch",
+      "sourceDistanceMm": 2.63
+    },
+    "costal": {
+      "position": [
+        -0.08710379898548126,
+        1.3498412370681763,
+        -0.08596110343933105
+      ],
+      "sourceName": "Costal surface of scapula",
+      "sourceDistanceMm": 2.4
+    },
+    "supraspinous": {
+      "position": [
+        -0.10007599741220474,
+        1.3901711702346802,
+        -0.06436250358819962
+      ],
+      "sourceName": "Supraspinous fossa",
+      "sourceDistanceMm": 2.14
+    },
+    "superior-border": {
+      "position": [
+        -0.108815997838974,
+        1.4030611515045166,
+        -0.032578401267528534
+      ],
+      "sourceName": "Superior border of scapula",
+      "sourceDistanceMm": 2.15
+    },
+    "lateral-angle": {
+      "position": [
+        -0.14162899553775787,
+        1.3748911619186401,
+        -0.024480100721120834
+      ],
+      "sourceName": "Lateral angle of scapula",
+      "sourceDistanceMm": 1.8
+    },
+    "subscapular": {
+      "position": [
+        -0.09415289759635925,
+        1.3382811546325684,
+        -0.08314730226993561
+      ],
+      "sourceName": "Subscapular fossa",
+      "sourceDistanceMm": 3.19
+    }
+  }
+}

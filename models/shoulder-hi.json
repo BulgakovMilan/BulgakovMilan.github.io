@@ -1,0 +1,274 @@
+{
+  "source": "BodyParts3D / Anatomography 4.3 (full resolution), curated by Oliver Case",
+  "sourceRepository": "https://github.com/olivercase/body_parts_3d_api",
+  "license": "CC BY-SA 2.1 Japan (source-repository attribution; confirm asset-level legal text before monetization)",
+  "author": "Database Center for Life Science / DBCLS",
+  "changes": "OBJ-to-binary conversion; vertices kept in shared original world coordinate space with one common shift; axis/units transformed; winding reversed. No per-bone offsets, smoothing, landmarks or decimation.",
+  "sourceFiles": [
+    {
+      "id": "FJ3384",
+      "file": "FJ3384_BP23090_FMA13395_Right scapula.obj",
+      "sha256": "3873c4310d32f3269af812eac978aa32292359f5bd4af7f7e422b7f87b835a6f"
+    },
+    {
+      "id": "FJ3362",
+      "file": "FJ3362_BP23174_FMA13322_Right clavicle.obj",
+      "sha256": "ea1c86d112c0635759ecf6ca9633b023b87e16511f01d6ef165b98d729316970"
+    },
+    {
+      "id": "FJ3368",
+      "file": "FJ3368_BP23164_FMA23130_Right humerus.obj",
+      "sha256": "0ad8a599aa3189fe4085c3d2d9b51f38c4aa46dcc8491769b4d5a03fc5666e38"
+    },
+    {
+      "id": "FJ3279",
+      "file": "FJ3279_BP23279_FMA13396_Left scapula.obj",
+      "sha256": "87cebf8702718e03dd10afbee87a50abce47139802ff305c749b33f40d451fda"
+    },
+    {
+      "id": "FJ3237",
+      "file": "FJ3237_BP23283_FMA13323_Left clavicle.obj",
+      "sha256": "a7eda265732db6c87ab0fb8c8f78a274882ceca59510991b0e7b32078c08152f"
+    },
+    {
+      "id": "FJ3262",
+      "file": "FJ3262_BP24066_FMA23131_Left humerus.obj",
+      "sha256": "c9512362bc5bb07b29292a5444eda8be7f6f6a0959f59213a695bc6323aa0010"
+    },
+    {
+      "id": "FJ3290",
+      "file": "FJ3290_BP22794_FMA7486_Manubrium.obj",
+      "sha256": "734e95c8265b6458f2db41a04c61ba706ed9b55ea1aefa9d0a8f048310651a68"
+    },
+    {
+      "id": "FJ3178",
+      "file": "FJ3178_BP22232_FMA7487_Body of sternum.obj",
+      "sha256": "2778645a031486a98f2e26be0c67f664f2de391a5e760427db96a403e676391f"
+    },
+    {
+      "id": "FJ3153",
+      "file": "FJ3153_BP22299_FMA7488_Xiphoid process.obj",
+      "sha256": "78c5b7418f7a20e567c7fe238626febaa054faf623aa1fbda5d6f84d0906832d"
+    }
+  ],
+  "sha256": "46341e10f4f4ad723c94f718102dd5d0e056436efe2520ea325e3de2d0f39ea2",
+  "version": "bodyparts3d-4.3-shoulder-original-res",
+  "parts": [
+    {
+      "id": "FJ3384",
+      "name": "Right scapula",
+      "conceptId": "FMA13395",
+      "system": "skeletal",
+      "chunk": 0,
+      "positions": 0,
+      "normals": 157416,
+      "indices": 236124,
+      "vertexCount": 13118,
+      "indexCount": 78516,
+      "bounds": [
+        [
+          -0.166464,
+          1.2620712,
+          -0.10508274999999999
+        ],
+        [
+          -0.0570538,
+          1.4279711999999998,
+          0.0028559999999999996
+        ]
+      ]
+    },
+    {
+      "id": "FJ3362",
+      "name": "Right clavicle",
+      "conceptId": "FMA13322",
+      "system": "skeletal",
+      "chunk": 0,
+      "positions": 550188,
+      "normals": 557184,
+      "indices": 560684,
+      "vertexCount": 583,
+      "indexCount": 3438,
+      "bounds": [
+        [
+          -0.145277,
+          1.3867311999999998,
+          -0.14917475
+        ],
+        [
+          -0.009661649999999999,
+          1.4335512,
+          -0.05663925
+        ]
+      ]
+    },
+    {
+      "id": "FJ3368",
+      "name": "Right humerus",
+      "conceptId": "FMA23130",
+      "system": "skeletal",
+      "chunk": 0,
+      "positions": 574436,
+      "normals": 601232,
+      "indices": 614632,
+      "vertexCount": 2233,
+      "indexCount": 11352,
+      "bounds": [
+        [
+          -0.240841,
+          1.1073112,
+          -0.10244574999999999
+        ],
+        [
+          -0.14009,
+          1.4146512,
+          -0.05326585
+        ]
+      ]
+    },
+    {
+      "id": "FJ3279",
+      "name": "Left scapula",
+      "conceptId": "FMA13396",
+      "system": "skeletal",
+      "chunk": 0,
+      "positions": 660040,
+      "normals": 828856,
+      "indices": 913264,
+      "vertexCount": 14068,
+      "indexCount": 84318,
+      "bounds": [
+        [
+          0.0570614,
+          1.2620612,
+          -0.10507174999999999
+        ],
+        [
+          0.166464,
+          1.4279711999999998,
+          0.00284965
+        ]
+      ]
+    },
+    {
+      "id": "FJ3237",
+      "name": "Left clavicle",
+      "conceptId": "FMA13323",
+      "system": "skeletal",
+      "chunk": 0,
+      "positions": 1250536,
+      "normals": 1257760,
+      "indices": 1261372,
+      "vertexCount": 602,
+      "indexCount": 3528,
+      "bounds": [
+        [
+          0.00837873,
+          1.3866412,
+          -0.14930475
+        ],
+        [
+          0.14394200000000001,
+          1.4332912,
+          -0.056614250000000005
+        ]
+      ]
+    },
+    {
+      "id": "FJ3262",
+      "name": "Left humerus",
+      "conceptId": "FMA23131",
+      "system": "skeletal",
+      "chunk": 0,
+      "positions": 1275484,
+      "normals": 1300360,
+      "indices": 1312800,
+      "vertexCount": 2073,
+      "indexCount": 11532,
+      "bounds": [
+        [
+          0.140073,
+          1.1073212,
+          -0.10245575
+        ],
+        [
+          0.24076,
+          1.4146311999999999,
+          -0.05328265
+        ]
+      ]
+    },
+    {
+      "id": "FJ3290",
+      "name": "Manubrium",
+      "conceptId": "FMA7486",
+      "system": "skeletal",
+      "chunk": 0,
+      "positions": 1358928,
+      "normals": 1376280,
+      "indices": 1384956,
+      "vertexCount": 1446,
+      "indexCount": 7638,
+      "bounds": [
+        [
+          -0.0274497,
+          1.3583812,
+          -0.18081475
+        ],
+        [
+          0.0274497,
+          1.4033612,
+          -0.13302775
+        ]
+      ]
+    },
+    {
+      "id": "FJ3178",
+      "name": "Body of sternum",
+      "conceptId": "FMA7487",
+      "system": "skeletal",
+      "chunk": 0,
+      "positions": 1415508,
+      "normals": 1459800,
+      "indices": 1481948,
+      "vertexCount": 3691,
+      "indexCount": 13938,
+      "bounds": [
+        [
+          -0.023614899999999998,
+          1.2577612,
+          -0.21605875
+        ],
+        [
+          0.0239556,
+          1.3677512,
+          -0.16739275
+        ]
+      ]
+    },
+    {
+      "id": "FJ3153",
+      "name": "Xiphoid process",
+      "conceptId": "FMA7488",
+      "system": "skeletal",
+      "chunk": 0,
+      "positions": 1537700,
+      "normals": 1543640,
+      "indices": 1546612,
+      "vertexCount": 495,
+      "indexCount": 2766,
+      "bounds": [
+        [
+          -0.0103378,
+          1.2421312,
+          -0.21557975000000001
+        ],
+        [
+          0.0106039,
+          1.2626112,
+          -0.20073575
+        ]
+      ]
+    }
+  ]
+}

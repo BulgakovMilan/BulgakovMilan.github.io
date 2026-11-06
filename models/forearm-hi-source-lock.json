@@ -1,0 +1,46 @@
+{
+  "repository": "https://github.com/olivercase/body_parts_3d_api",
+  "revision": "fd527e6f4daf732fd814314d9257df5877b844bc",
+  "membership": {
+    "url": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/metadata/FMA2Obj.txt",
+    "sha256": "a199eb9cb258266768b7690f4ac2591f67d4b146c95e14046c46091c35c09385"
+  },
+  "sources": [
+    {
+      "id": "FJ3349",
+      "conceptId": "FMA23464",
+      "name": "Right radius",
+      "path": "meshes/FJ3349_BP23239_FMA23464_Right radius.obj",
+      "sha256": "c04d4b27108c2a8764e0eb8c7b6505ff2b212e7993c5184a759f3f3a1ec305e6",
+      "bytes": 42337,
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3349_BP23239_FMA23464_Right%20radius.obj"
+    },
+    {
+      "id": "FJ3277",
+      "conceptId": "FMA23465",
+      "name": "Left radius",
+      "path": "meshes/FJ3277_BP23197_FMA23465_Left radius.obj",
+      "sha256": "ebc1afbbf440d816b93d95a2381d82188491924a806bf0a4eb564ceb50a87f4f",
+      "bytes": 39511,
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3277_BP23197_FMA23465_Left%20radius.obj"
+    },
+    {
+      "id": "FJ3391",
+      "conceptId": "FMA23467",
+      "name": "Right ulna",
+      "path": "meshes/FJ3391_BP23195_FMA23467_Right ulna.obj",
+      "sha256": "dee852d107cd345be4461734f8155f01799352bacf4505471c4c1f82f676683b",
+      "bytes": 53810,
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3391_BP23195_FMA23467_Right%20ulna.obj"
+    },
+    {
+      "id": "FJ3286",
+      "conceptId": "FMA23468",
+      "name": "Left ulna",
+      "path": "meshes/FJ3286_BP23154_FMA23468_Left ulna.obj",
+      "sha256": "58cf7a9d905ac649ff38bb8b75e5d9cb1c26dd11574052e70dd8d29766dee734",
+      "bytes": 52697,
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3286_BP23154_FMA23468_Left%20ulna.obj"
+    }
+  ]
+}

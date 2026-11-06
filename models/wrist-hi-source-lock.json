@@ -1,0 +1,154 @@
+{
+  "repository": "https://github.com/olivercase/body_parts_3d_api",
+  "revision": "fd527e6f4daf732fd814314d9257df5877b844bc",
+  "membership": {
+    "url": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/metadata/FMA2Obj.txt",
+    "sha256": "a199eb9cb258266768b7690f4ac2591f67d4b146c95e14046c46091c35c09385"
+  },
+  "sources": [
+    {
+      "id": "FJ3257",
+      "conceptId": "FMA24447",
+      "name": "Left capitate",
+      "path": "meshes/FJ3257_BP21759_FMA24447_Left capitate.obj",
+      "sha256": "af457c999e65eef635e82edf388c7d9c8cb6fc080b46e10feddcb19ea2a1fcb7",
+      "bytes": 24986,
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3257_BP21759_FMA24447_Left%20capitate.obj"
+    },
+    {
+      "id": "FJ3261",
+      "conceptId": "FMA24449",
+      "name": "Left hamate",
+      "path": "meshes/FJ3261_BP23940_FMA24449_Left hamate.obj",
+      "sha256": "83f398b7581b910da975681f79a4a74afa68f6c97bf2b984f366aa61daa5c448",
+      "bytes": 29027,
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3261_BP23940_FMA24449_Left%20hamate.obj"
+    },
+    {
+      "id": "FJ3268",
+      "conceptId": "FMA24438",
+      "name": "Left lunate",
+      "path": "meshes/FJ3268_BP21780_FMA24438_Left lunate.obj",
+      "sha256": "e40c68c097031fb7c486dc073e490a6cf5835c94d2e1a9473f9ffba041e25d21",
+      "bytes": 19432,
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3268_BP21780_FMA24438_Left%20lunate.obj"
+    },
+    {
+      "id": "FJ3276",
+      "conceptId": "FMA24442",
+      "name": "Left pisiform",
+      "path": "meshes/FJ3276_BP21678_FMA24442_Left pisiform.obj",
+      "sha256": "dde00dcc98e11d009558440b91a375bf9ac3716461550d926658d46f3d322b1d",
+      "bytes": 12129,
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3276_BP21678_FMA24442_Left%20pisiform.obj"
+    },
+    {
+      "id": "FJ3278",
+      "conceptId": "FMA24436",
+      "name": "Left scaphoid",
+      "path": "meshes/FJ3278_BP21685_FMA24436_Left scaphoid.obj",
+      "sha256": "b11e96eeb99b1b080d64c340488e4bf9f03f02e54c9a85294c3aee7f6f4470a8",
+      "bytes": 18691,
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3278_BP21685_FMA24436_Left%20scaphoid.obj"
+    },
+    {
+      "id": "FJ3283",
+      "conceptId": "FMA24444",
+      "name": "Left trapezium",
+      "path": "meshes/FJ3283_BP21682_FMA24444_Left trapezium.obj",
+      "sha256": "03564653665cd2773767f11f2f9f4b073223c5210a3ec67fba60e17f77a53edd",
+      "bytes": 23090,
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3283_BP21682_FMA24444_Left%20trapezium.obj"
+    },
+    {
+      "id": "FJ3284",
+      "conceptId": "FMA24445",
+      "name": "Left trapezoid",
+      "path": "meshes/FJ3284_BP21753_FMA24445_Left trapezoid.obj",
+      "sha256": "fa35609f59675f0616d46d4ea4cf21e8c2ae0a49d44d021cc11ac57d430e2f3e",
+      "bytes": 27365,
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3284_BP21753_FMA24445_Left%20trapezoid.obj"
+    },
+    {
+      "id": "FJ3285",
+      "conceptId": "FMA24440",
+      "name": "Left triquetral",
+      "path": "meshes/FJ3285_BP23878_FMA24440_Left triquetral.obj",
+      "sha256": "d50d07375dd7fa4ebf1f10435d4e76598ee452e84e3794008806c91727a79278",
+      "bytes": 18747,
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3285_BP23878_FMA24440_Left%20triquetral.obj"
+    },
+    {
+      "id": "FJ3361",
+      "conceptId": "FMA24446",
+      "name": "Right capitate",
+      "path": "meshes/FJ3361_BP21773_FMA24446_Right capitate.obj",
+      "sha256": "df7b715d057239199bf014e8d2fcb7ae0255e69978e5f0ff5adb084485167de0",
+      "bytes": 27104,
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3361_BP21773_FMA24446_Right%20capitate.obj"
+    },
+    {
+      "id": "FJ3367",
+      "conceptId": "FMA24448",
+      "name": "Right hamate",
+      "path": "meshes/FJ3367_BP23822_FMA24448_Right hamate.obj",
+      "sha256": "4249d3f73d0c5bf6c77f39b8bf4122a8d2285984267eed6d1e697ac1e8228e53",
+      "bytes": 34630,
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3367_BP23822_FMA24448_Right%20hamate.obj"
+    },
+    {
+      "id": "FJ3374",
+      "conceptId": "FMA24437",
+      "name": "Right lunate",
+      "path": "meshes/FJ3374_BP23841_FMA24437_Right lunate.obj",
+      "sha256": "e696638d33e10bd33293394d90d4e20e27b5c6a0240688ab80dbeba06c82c4e4",
+      "bytes": 20704,
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3374_BP23841_FMA24437_Right%20lunate.obj"
+    },
+    {
+      "id": "FJ3382",
+      "conceptId": "FMA24441",
+      "name": "Right pisiform",
+      "path": "meshes/FJ3382_BP21756_FMA24441_Right pisiform.obj",
+      "sha256": "e1d59617164a40057a48c7bdf4cd8e0b0df565661ca83b090da80a0877591607",
+      "bytes": 11328,
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3382_BP21756_FMA24441_Right%20pisiform.obj"
+    },
+    {
+      "id": "FJ3383",
+      "conceptId": "FMA24435",
+      "name": "Right scaphoid",
+      "path": "meshes/FJ3383_BP21772_FMA24435_Right scaphoid.obj",
+      "sha256": "83e115e4269b6b30900132898f599ef70eb73eb8605d9bfad83905fa34f29b76",
+      "bytes": 20235,
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3383_BP21772_FMA24435_Right%20scaphoid.obj"
+    },
+    {
+      "id": "FJ3388",
+      "conceptId": "FMA24443",
+      "name": "Right trapezium",
+      "path": "meshes/FJ3388_BP20135_FMA24443_Right trapezium.obj",
+      "sha256": "bd7504ce6fb1fa12416c8ffcfd19cf751052e7960fc8de7af69fc943b1811073",
+      "bytes": 28585,
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3388_BP20135_FMA24443_Right%20trapezium.obj"
+    },
+    {
+      "id": "FJ3389",
+      "conceptId": "FMA23725",
+      "name": "Right trapezoid",
+      "path": "meshes/FJ3389_BP23964_FMA23725_Right trapezoid.obj",
+      "sha256": "ea58285389bced4ad7ab5acfbf8e294e2dd3732cb3e1c293e27c2c9dad64609f",
+      "bytes": 26082,
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3389_BP23964_FMA23725_Right%20trapezoid.obj"
+    },
+    {
+      "id": "FJ3390",
+      "conceptId": "FMA24439",
+      "name": "Right triquetral",
+      "path": "meshes/FJ3390_BP21751_FMA24439_Right triquetral.obj",
+      "sha256": "aac53e48c673cd3f7691d1274d2fb9b4f260d7ed46b996be6a57fca73350ef63",
+      "bytes": 12725,
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3390_BP21751_FMA24439_Right%20triquetral.obj"
+    }
+  ]
+}

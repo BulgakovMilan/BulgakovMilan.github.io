@@ -1,0 +1,82 @@
+{
+  "source": "BodyParts3D 4.0 / Human Atlas local atlas.json + body-13.bin",
+  "license": "CC BY 4.0",
+  "author": "Database Center for Life Science",
+  "changes": "Lossless subset: right scapula, right clavicle, right humerus; original coordinates and topology retained.",
+  "sha256": "29bb6bc8367289650cb4d96423bbf1103c841cb82621e7ab1494eefd0f0766d1",
+  "sourceSha256": "4c51b6be85d5b705d2b52b79b9ad1cdae0b65ad03c9402a2f2673c7633fd94f3",
+  "parts": [
+    {
+      "id": "FJ3384",
+      "name": "Right scapula",
+      "conceptId": "FMA13395",
+      "system": "skeletal",
+      "chunk": 0,
+      "positions": 0,
+      "normals": 34752,
+      "indices": 52128,
+      "vertexCount": 2896,
+      "indexCount": 17268,
+      "bounds": [
+        [
+          -0.166464,
+          1.2620712,
+          -0.10508275
+        ],
+        [
+          -0.0570538,
+          1.4279711999999998,
+          0.0028559999999999974
+        ]
+      ]
+    },
+    {
+      "id": "FJ3362",
+      "name": "Right clavicle",
+      "conceptId": "FMA13322",
+      "system": "skeletal",
+      "chunk": 0,
+      "positions": 121200,
+      "normals": 126240,
+      "indices": 128760,
+      "vertexCount": 420,
+      "indexCount": 2460,
+      "bounds": [
+        [
+          -0.145277,
+          1.3867311999999998,
+          -0.0455875
+        ],
+        [
+          -0.00966165,
+          1.4335512,
+          0.04694800000000002
+        ]
+      ]
+    },
+    {
+      "id": "FJ3368",
+      "name": "Right humerus",
+      "conceptId": "FMA23130",
+      "system": "skeletal",
+      "chunk": 0,
+      "positions": 138600,
+      "normals": 148128,
+      "indices": 152892,
+      "vertexCount": 794,
+      "indexCount": 3210,
+      "bounds": [
+        [
+          -0.240841,
+          1.1073112,
+          -0.04896090000000001
+        ],
+        [
+          -0.14009000000000002,
+          1.4146512,
+          0.00021899999999999697
+        ]
+      ]
+    }
+  ]
+}
